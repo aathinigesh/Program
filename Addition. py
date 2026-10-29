@@ -1,0 +1,8 @@
+# My first Python script on GitHub
+name = "Aathin"
+print("Hello, " + name + "! Welcome to my GitHub repository.")
+
+# Simple math calculation
+a = 10
+b = 20
+print("The sum of a and b is:", a + b)
